@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning new programming languages
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on telegram bot
+- I know c++ and python
 - 📫 How to reach me sobolori12@gmail.com
 
 <!---
